@@ -8,10 +8,6 @@ Original file is located at
 """
 
 import pandas as pd
-from google.colab import drive
-
-drive.mount('/content/drive')
-
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
